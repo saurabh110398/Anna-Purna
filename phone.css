@@ -1,0 +1,23 @@
+body{
+    background-color: red;
+}
+
+#navbar{
+    flex-direction: column;
+}
+
+#home p{
+font-size: 13px;
+}
+#home::before{
+    height: 480px;
+    }
+
+#services{
+    flex-direction: column;
+}
+
+
+#clients {
+    overflow: hidden;
+}
